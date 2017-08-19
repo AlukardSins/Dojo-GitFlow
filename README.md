@@ -1,8 +1,8 @@
 # Dojo-GitFlow
 Dojo Git Flow Desarrollo aplicaciones empresariales.
 
-## RELEASE
+## Features
 
-Esta es la rama Release :D
+_index modified with links to other local websites_
 
-Versión _0.0.1_
+Esta es la rama Release-0.1.0
